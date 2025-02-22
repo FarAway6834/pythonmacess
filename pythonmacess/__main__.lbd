@@ -1,0 +1,1 @@
+__import__('Bmaindeco').mainsetdecowitharg(globals())(λa=_a.__import__('subpr').lib.shell(f"python -m {' '.join(a[1:])}"))
