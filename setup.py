@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='pythonmacess',
-    version='0.0.1',
+    version='0.0.2',
     description='`python -m` acesss',
     author='du7ec',
     author_email='dutec6834@gmail.com',
